@@ -1,0 +1,13 @@
+C:\Users\sergi\Documents\CódigosCSharp\MediaPonderada\bin\Debug\netcoreapp3.1\MediaPonderada.exe
+C:\Users\sergi\Documents\CódigosCSharp\MediaPonderada\bin\Debug\netcoreapp3.1\MediaPonderada.deps.json
+C:\Users\sergi\Documents\CódigosCSharp\MediaPonderada\bin\Debug\netcoreapp3.1\MediaPonderada.runtimeconfig.json
+C:\Users\sergi\Documents\CódigosCSharp\MediaPonderada\bin\Debug\netcoreapp3.1\MediaPonderada.runtimeconfig.dev.json
+C:\Users\sergi\Documents\CódigosCSharp\MediaPonderada\bin\Debug\netcoreapp3.1\MediaPonderada.dll
+C:\Users\sergi\Documents\CódigosCSharp\MediaPonderada\bin\Debug\netcoreapp3.1\MediaPonderada.pdb
+C:\Users\sergi\Documents\CódigosCSharp\MediaPonderada\obj\Debug\netcoreapp3.1\MediaPonderada.csprojAssemblyReference.cache
+C:\Users\sergi\Documents\CódigosCSharp\MediaPonderada\obj\Debug\netcoreapp3.1\MediaPonderada.AssemblyInfoInputs.cache
+C:\Users\sergi\Documents\CódigosCSharp\MediaPonderada\obj\Debug\netcoreapp3.1\MediaPonderada.AssemblyInfo.cs
+C:\Users\sergi\Documents\CódigosCSharp\MediaPonderada\obj\Debug\netcoreapp3.1\MediaPonderada.csproj.CoreCompileInputs.cache
+C:\Users\sergi\Documents\CódigosCSharp\MediaPonderada\obj\Debug\netcoreapp3.1\MediaPonderada.dll
+C:\Users\sergi\Documents\CódigosCSharp\MediaPonderada\obj\Debug\netcoreapp3.1\MediaPonderada.pdb
+C:\Users\sergi\Documents\CódigosCSharp\MediaPonderada\obj\Debug\netcoreapp3.1\MediaPonderada.genruntimeconfig.cache
